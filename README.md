@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Raj Gurung</h1>
+<h3 align="center">Python Developer | ML Learner | Future Software Engineer</h3>
 
-<!--
-**raj-grgcode/raj-grgcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,matplotlib" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+- Machine Learning
+- Data Science
+- React & Web Development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raj.gurung2061&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 About Me
+- 🎯 Focused on improving: Looks | Money | Knowledge | Personality  
+- 🏋️ Gym + Coding = Discipline  
+- 🌏 Planning to move to Australia after Bachelor's  
+
+---
+
+## 📫 Contact
+📧 rajg2239@gmail.com
